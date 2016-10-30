@@ -1,0 +1,228 @@
+head {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 1vw;
+    padding: 1vw;
+}
+
+.header {
+    background-image: url(img/header.svg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 10vw;
+}
+
+.header_about {
+    background-image: url(img/header.svg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 10vw;
+}
+
+.header_donate {
+    background-image: url(img/header.svg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 10vw;
+}
+
+.slideshow {
+    position: relative;
+}
+
+.placeholder {
+    width: 100%;
+    visibility: hidden;
+}
+
+.layer1,
+.layer2,
+.layer3 {
+    position: absolute;
+    width: 80%;
+    height: 80%;
+    top: 0vw;
+    left: 15vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.layer1 {
+    background-image: url(img/1.jpg);
+}
+
+.layer2 {
+    background-image: url(img/2.jpg);
+    animation: layer2Anim 10s infinite;
+}
+
+.layer3 {
+    background-image: url(img/4.jpg);
+    animation: layer3Anim 10s infinite;
+}
+
+@keyframes layer2Anim {
+    0% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 0;
+    }
+    67% {
+        opacity: 1;
+    }
+    83% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+@keyframes layer3Anim {
+    0% {
+        opacity: 0;
+    }
+    17% {
+        opacity: 0;
+    }
+    33% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 1;
+    }
+    67% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+.slideOverlay {
+    background-image: url(img/takeaction.jpg);
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 70%;
+    height: 12%;
+    top: 25vw;
+    left: 15vw;
+}
+
+.facebook {
+    position: absolute;
+    background-repeat: no-repeat;
+    width: 8vw;
+    height: 8vw;
+    top: 0vw;
+}
+
+.youtube {
+    position: absolute;
+    background-repeat: no-repeat;
+    width: 8vw;
+    height: 8vw;
+    top: 9.5vw;
+}
+
+.dxe {
+    position: absolute;
+    background-repeat: no-repeat;
+    width: 8vw;
+    height: 8vw;
+    top: 19vw;
+}
+
+.doner {
+    position: absolute;
+    background-repeat: no-repeat;
+    width: 8vw;
+    height: 8vw;
+    top: 28.5vw;
+}
+
+.text h4 {
+    font-family: Viga, sans-serif;
+    color: #c70000;
+    margin-left: 15vw;
+    margin-right: 15vw;
+    margin-top: 2vw;
+}
+
+.text p {
+    font-family: serif;
+    margin-left: 15vw;
+    margin-right: 15vw;
+    line-height: 170%;
+}
+
+.forside_knap {
+    position: absolute;
+    background-repeat: no-repeat;
+    width: 8vw;
+    height: 8vw;
+    top: 15vw;
+}
+
+.facebook_about {
+    position: absolute;
+    background-repeat: no-repeat;
+    width: 8vw;
+    height: 8vw;
+    top: 25vw;
+}
+
+.youtube_about {
+    position: absolute;
+    background-repeat: no-repeat;
+    width: 8vw;
+    height: 8vw;
+    top: 35vw;
+}
+
+.dxe_about {
+    position: absolute;
+    background-repeat: no-repeat;
+    width: 8vw;
+    height: 8vw;
+    top: 45vw;
+}
+
+.doner_about {
+    position: absolute;
+    background-repeat: no-repeat;
+    width: 8vw;
+    height: 8vw;
+    top: 55vw;
+}
+
+.banner {
+    background-image: url(img/banner.jpg);
+    position: absolute;
+    width: 80%;
+    height: 80%;
+    top: 16vw;
+    left: 15vw;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-family: Viga, sans-serif;
+    margin-left: 0vw;
+    margin-top: 32vw;
+    color: #c70000;
+}
+
+.banner p {
+    font-family: serif;
+    margin-left: 0vw;
+    margin-top: 1%;
+    margin-right: 10vw;
+    line-height: 170%;
+}
