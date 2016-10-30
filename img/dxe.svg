@@ -1,17 +1,70 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
-<style type="text/css">
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 200 200"
+   style="enable-background:new 0 0 200 200;"
+   xml:space="preserve"
+   id="svg3336"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="dxe-path.svg"><metadata
+     id="metadata3350"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs3348" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1387"
+     inkscape:window-height="757"
+     id="namedview3346"
+     showgrid="false"
+     inkscape:zoom="3.425"
+     inkscape:cx="100"
+     inkscape:cy="100"
+     inkscape:window-x="0"
+     inkscape:window-y="300"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" /><style
+     type="text/css"
+     id="style3338">
 	.st0{fill:#C81617;stroke:#C81617;stroke-miterlimit:10;}
 	.st1{fill:#FFFFFF;}
-	.st2{font-family:'Viga-Regular';}
+	.st2{font-family:'Viga';}
 	.st3{font-size:72px;}
-</style>
-<g id="Layer_1">
-	<ellipse class="st0" cx="101.4" cy="101.5" rx="90.7" ry="89.1"/>
-	<text transform="matrix(1 0 0 1 35.1652 127.6389)" class="st1 st2 st3">DxE</text>
-</g>
-<g id="Layer_2">
-</g>
-</svg>
+</style><g
+     id="Layer_1"><ellipse
+       class="st0"
+       cx="101.4"
+       cy="101.5"
+       rx="90.7"
+       ry="89.1"
+       id="ellipse3341" /><g
+       transform="matrix(1 0 0 1 35.1652 127.6389)"
+       style="font-size:72px;font-family:Viga;fill:#ffffff"
+       id="text3343"><path
+         d="m 44.64,-25.848 c -0.216,-7.704 0.576,-14.76 -5.184,-20.52 -3.384,-3.384 -8.208,-4.896 -13.536,-4.896 l -19.944,0 0,37.8 C 5.976,-3.384 10.368,0 25.2,0 c 5.328,0 10.872,-1.512 14.256,-4.896 4.392,-4.392 4.968,-9.72 5.256,-15.408 l -0.072,-5.544 z m -10.008,0 c 0,7.776 -0.288,11.448 -2.16,13.752 -1.728,2.088 -4.032,3.168 -7.488,3.168 -6.84,0 -9,-1.224 -9,-5.04 l 0,-28.368 9,0 c 3.456,0 5.76,1.08 7.488,3.168 1.872,2.304 2.16,5.544 2.16,13.32 z"
+         style="font-size:72px;font-family:Viga;fill:#ffffff"
+         id="path3372" /><path
+         d="m 84.110625,0 -12.96,-20.952 12.816,-20.16 -10.512,0 -6.984,11.88 -7.2,-11.88 -10.512,0 12.816,20.16 -13.32,20.952 11.232,0 6.84,-12.6 7.272,12.6 10.512,0 z"
+         style="font-size:72px;font-family:Viga;fill:#ffffff"
+         id="path3374" /><path
+         d="m 125.10338,0 0,-8.928 -17.42401,0 c -4.752,0 -6.336,-1.224 -6.336,-5.328 l 0,-7.128 15.91201,0 0.72,-8.928 -16.63201,0 0,-12.024 23.76001,0 0,-8.928 -33.768005,0 0,37.728 c 0,10.152 4.176,13.536 15.623995,13.536 l 18.14401,0 z"
+         style="font-size:72px;font-family:Viga;fill:#ffffff"
+         id="path3376" /></g></g><g
+     id="Layer_2" /></svg>
